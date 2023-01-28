@@ -1,0 +1,58 @@
+*{
+	font-family: "Times New Roman", Times,serif;
+}
+body {
+  background-color: lightgrey;
+
+}
+hr{
+	width: 60%;
+	border:3px solid grey;
+
+}
+
+h1{
+	text-align: center;
+	background-color: grey;
+	padding:20px;
+}
+
+h2{
+	text-align: center;
+}
+.para{
+	text-align: center;
+}
+.para a{
+	color:white;
+	text-decoration: none;
+}
+.para a:hover{
+	color:black;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 2px;
+	background-color: grey;
+}
+li {
+	display: inline;
+}
+li a{
+	text-decoration: none;
+	color:lightgrey;
+	padding: 14px 16px;
+}
+li a:hover{
+	color:black;
+}
+.img{
+	text-align: center;
+}
+footer{
+	background-color: grey;
+	colour:black;
+	padding: 4px;
+	text-align: center;
+}
