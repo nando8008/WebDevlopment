@@ -1,0 +1,51 @@
+*{
+	font-family: 'Aboreto', cursive;
+}
+
+/*services style*/
+
+#services_offered{
+	margin-top: 25px;
+}
+.service_coloum{
+	text-align: center;
+}
+.service_content{
+	margin-top: 15px;
+}
+
+/*gallery*/
+
+#gallery{
+	margin-top: 20px;
+}
+.gallery_text{
+	text-align: center;
+	margin-top: 30px;
+}
+#bigbutton{
+	margin-top: 30px;
+}
+footer{
+	margin-top: 30px;
+	background-color: #878f99;
+}
+.FinalLogo{
+	margin-left: 50px;
+}
+.footer_list{
+	margin-top: 30px;
+	list-style-type: none;
+}
+h3{
+	margin-top: 20px;
+}
+.footer_contact{
+	margin-left: 40px;
+}
+.footer_link{
+	color: black;
+}
+.footer_link:hover{
+	color: white;
+}
